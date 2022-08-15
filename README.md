@@ -12,7 +12,8 @@
   <img align="center" alt="Ferroca-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ferroca-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Ferroca-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Ferroca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/phyton-original.svg">
+  <img align="center" alt="Ferroca-Phyton" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Ferroca-Phyton" height="30" width="40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Ferroca-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/django-original.svg">
   <img align="center" alt="Ferroca-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Ferroca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
